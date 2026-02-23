@@ -1,0 +1,12 @@
+//Criar uma variável com 'nome', uma variável 'sobrenome', uma variável 'idade', uma variável 'cidade'. Exibir o texto 'Olá, meu nome é _____, tenho ___ anos de idade e moro na cidade de _____'
+let Nome1 = 'Arthur' ;
+let Sobrenome1 = 'Maximino de Oliveira';
+let Idade1 = '15';
+let Cidade1 = 'Maringá';
+console.log(`Olá, meu nome é ${Nome1} ${Sobrenome1}, tenho ${Idade1} anos de idade e moro na cidade de ${Cidade1}`);
+
+let Nome2 = 'Charlie ';
+let Sobrenome2 = 'Kirk';
+let Idade2 = '31';
+let Cidade2 = 'Ohio';
+console.log(`Olá, meu nome é ${Nome2} ${Sobrenome2}, tenho ${Idade2} anos de idade e moro na cidade de ${Cidade2}`);
